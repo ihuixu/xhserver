@@ -1,8 +1,8 @@
 {
 	"appPath": "../../../",
-	"corePath": "../../core",
+	"corePath": "../../../core",
 	"hosts": {
-		"/paeonia/m": "paeonia/m/static"
+		"/demo": "demo/static"
 	},
 	"max_time": 3000,
 	"onPort": 6144
