@@ -6,7 +6,7 @@
 		"views": "views/"
 	},
 	"hosts": {
-		"xhm.paeonia.com" : "paeonia/m"
+		"demo.paeonia.com" : "demo"
 	},
 	"site": {
 		"pageTitle": "pageTitle",
@@ -16,7 +16,7 @@
 	"apis": {
 	},
 	"hostDefault": {
-		"paeonia/m": "welcome"
+		"demo": "welcome"
 	},
 	"debug":true,
 	"timeout": 5000,
