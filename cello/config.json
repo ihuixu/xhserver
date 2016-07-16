@@ -1,0 +1,9 @@
+{
+	"appPath": "../../",
+	"corePath": "../../core",
+	"hosts": {
+		"xhdev.cello.com/m": "paeonia/m/static"
+	},
+	"max_time": 3000,
+	"onPort": 6144
+}
