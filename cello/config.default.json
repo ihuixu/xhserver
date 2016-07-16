@@ -1,5 +1,5 @@
 {
-	"appPath": "../../",
+	"appPath": "../../../",
 	"corePath": "../../core",
 	"hosts": {
 		"/paeonia/m": "paeonia/m/static"

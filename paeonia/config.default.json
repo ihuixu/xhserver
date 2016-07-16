@@ -1,13 +1,12 @@
 {
-	"appPath": "../../",
+	"appPath": "../../../",
 	"path": {
 		"controller": "controller/",
 		"model": "model/",
 		"views": "views/"
 	},
 	"hosts": {
-		"101.201.148.188:9001" : "paeonia/m",
-		"m.xiaoyemian.com" : "paeonia/m"
+		"xhm.paeonia.com" : "paeonia/m"
 	},
 	"site": {
 		"pageTitle": "pageTitle",
