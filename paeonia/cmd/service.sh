@@ -31,7 +31,7 @@ startService() {
 	echo 'SERVICE START AT '` date +%Y/%m/%d-%T` >> $log
 	mkdir -p $logf
 	echo 'static service start , logfile:'$log	
-	cd $rf'../' && nohup node index.js >> $log &
+	cd $rf'../' && nohup node --harmony index.js >> $log &
 
 }
 
